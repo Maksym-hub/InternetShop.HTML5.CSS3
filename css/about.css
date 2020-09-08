@@ -1,0 +1,147 @@
+@charset "utf-8";
+*{
+	margin:0;
+	padding:0;
+	outline:none;
+    
+}
+html{height:100%;}
+
+body {
+	width:100%;
+	height:100%;
+	color:#333;
+	background:#f7f7f7;
+	font-size: 1em;
+	font-family: "Segoe UI", sans-serif;
+	line-height: 135%;
+    padding-bottom: 1;
+   
+}
+#about {
+    width: 400px;
+    font-family: Snell Roundhand, cursive;
+    padding: 20px;
+    
+}
+#delivery {
+    float: right;
+   margin-top:300px;
+    font-family: Snell Roundhand, cursive;
+}
+#me  {
+    height: 400px;
+    text-align: center;
+    margin-left:400px;
+    font-family: Snell Roundhand, cursive;
+}
+# fat{
+    padding: 15px;
+}
+
+}
+h1,h2 {
+	color:#8ce4a6;
+	text-decoration: none;
+	transition: all.6s easy;
+	-mos-transition: all.6s easy;
+	-webkit-transition: all.6s easy;
+	-ms-transition: all.6s easy;
+}
+h1,h2:hover {
+	color:#8b9ff5;
+	text-decoration: none;
+	transition: all.6s easy;
+	-mos-transition: all.6s easy;
+	-webkit-transition: all.6s easy;
+	-ms-transition: all.6s easy;
+}
+h1,h2:active{color:#8ce4a6;}
+a {
+	color:#f48b8b;
+	text-decoration: none;
+	transition: all.6s easy;
+	-mos-transition: all.6s easy;
+	-webkit-transition: all.6s easy;
+	-ms-transition: all.6s easy;
+}
+a:hover {
+	color:#8b9ff5;
+	text-decoration: none;
+	transition: all.6s easy;
+	-mos-transition: all.6s easy;
+	-webkit-transition: all.6s easy;
+	-ms-transition: all.6s easy;
+}
+a:active{color:#8ce4a6;}
+img {
+	max-width:100%;
+	height: auto;
+	width: auto\9;
+}
+.left{float:left; }
+.rihgt{float:right;}
+/*Selecton Block*/
+::selectoin:{background:#f58b8b; color:#fff;}
+::-moz-selectoin:{background:#f58b8b; color:#fff;}
+    
+   
+
+
+Header,footer {
+	width:98%;
+	background-color:#fff;
+	min-height:30px;
+	float:left;
+}
+Header{
+	border-bottom: 2px solid silver;
+	padding:1%;
+}
+
+
+#logo{ font-size:2em;
+font-family:Comic Sans MS, sans-serif;
+color: faacac;
+}
+.contact {
+	Font-size:1.1em;
+	font-family:Comic Sans MS, sans-serif;
+	margin-left:20px;
+}
+input[type=text].field{
+	border:2px solid silver;
+	padding:10px;
+	margin-left:20px;
+	border-radius:5px;
+}
+
+input[type=text].field:focus{
+	border:2px solid #f58b8b;
+}
+
+
+/*Основные стили для сайта*/
+
+/*Стили для футера*/
+Footer{
+	border-top: 2px solid silver;
+	margin-top: 10px;
+	padding:1%;
+	}
+	
+	
+	.ggg{float:right;}
+	
+	footer img{float:left; margin-right:10px;}
+	
+	#page-wrap:after{
+		content:"";
+		display: block;
+	}
+	#page-wrap:after{height:10px;}
+	#page-wrap{
+		margin-bottom:-1px;,
+        min-height:94%;
+	}
+	 
